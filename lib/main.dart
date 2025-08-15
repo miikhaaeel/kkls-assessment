@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kkls_assessment/screen_config.dart';
-import 'package:kkls_assessment/views/bottom_navbar.dart';
+import 'package:kkls_assessment/configs/screen_config.dart';
+import 'package:kkls_assessment/views/shared/bottom_navbar.dart';
 
 void main() {
   runApp(const MyApp());

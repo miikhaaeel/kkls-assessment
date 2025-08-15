@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kkls_assessment/screen_config.dart';
-import 'package:kkls_assessment/views/colors.dart';
+import 'package:kkls_assessment/configs/screen_config.dart';
+import 'package:kkls_assessment/utils/colors.dart';
 
 class AppDrawerIconWidget extends StatelessWidget {
   const AppDrawerIconWidget({super.key});

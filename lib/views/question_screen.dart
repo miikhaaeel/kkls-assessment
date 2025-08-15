@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kkls_assessment/screen_config.dart';
-import 'package:kkls_assessment/views/colors.dart';
+import 'package:kkls_assessment/configs/screen_config.dart';
+import 'package:kkls_assessment/utils/colors.dart';
 import 'package:kkls_assessment/widgets/home_widgets.dart';
 
 class QuestionScreen extends StatefulWidget {
